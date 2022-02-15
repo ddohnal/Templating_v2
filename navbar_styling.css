@@ -1,0 +1,9 @@
+.navbar-nav .nav-link:hover {
+    text-decoration: underline; 
+    text-underline-offset: 0.5em;
+    text-decoration-color: #e3b04b;
+    text-decoration-thickness: 2px
+    }
+.navbar .navbar-collapse {
+        text-align: center;
+    }

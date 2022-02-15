@@ -1,0 +1,21 @@
+/*! `Custom` Bootstrap 5 theme */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:200,300,400,700);
+$font-family-base:Montserrat;
+
+
+
+$primary:#222222;
+$secondary:#666666;
+$success:#e3b04b;
+$danger:#434343;
+$info:#515151;
+$warning:#5f5f5f;
+$light:#eceeec;
+$dark:#000;
+
+
+
+
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+// Add SASS theme customizations here..
